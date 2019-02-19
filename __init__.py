@@ -1,3 +1,3 @@
 """
-The myModule module.
+The cyclone module.
 """
