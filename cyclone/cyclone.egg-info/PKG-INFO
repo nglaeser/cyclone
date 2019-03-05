@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: cyclone
+Version: 1.0
+Summary: Utilities for powers of cycle graphs
+Home-page: https://github.com/nglaeser/cyclone
+Author: Noemi Glaeser
+Author-email: nglaeser@email.sc.edu
+License: GPL
+Description: # cyclone
+        Utilities for powers of cycle graphs
+Platform: UNKNOWN

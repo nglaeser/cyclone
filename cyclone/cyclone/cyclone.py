@@ -1,5 +1,24 @@
 #!/usr/bin/env python
 
+"""The cyclone module (the only module).
+Classes:
+    CyclePower: represent powers of a cycle graph
+        get_coord
+        get_index
+        add
+        remove
+        hasPoint
+        size
+        toString
+Functions:
+    create_starting_set: 
+        creates a naive starting independent set in
+        a cycle graph of the given dimensions
+    count_neighbors:
+        count the number of neighbors the given point has
+        in the CyclePower instance
+"""
+
 import numpy as np
 from random import randint
 
