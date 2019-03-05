@@ -1,9 +1,0 @@
-README.md
-setup.py
-cyclone/__init__.py
-cyclone/cyclone.py
-cyclone.egg-info/PKG-INFO
-cyclone.egg-info/SOURCES.txt
-cyclone.egg-info/dependency_links.txt
-cyclone.egg-info/requires.txt
-cyclone.egg-info/top_level.txt

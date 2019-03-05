@@ -1,1 +1,3 @@
-cyclone/__pycache__/
+graphcyclone/graphcyclone/__pycache__/
+graphcyclone/build/
+graphcyclone/dist/
