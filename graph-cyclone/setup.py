@@ -5,7 +5,7 @@ with open("README.md", 'r') as f:
 
 setup(
    name='graph-cyclone',
-   version='1.0',
+   version='1.1',
    description='Utilities for powers of cycle graphs',
    license="GPL",
    long_description=long_description,
@@ -13,5 +13,5 @@ setup(
    author_email='',
    url="https://github.com/nglaeser/graph-cyclone",
    packages=['graph-cyclone'],  #same as name
-   install_requires=['numpy', 'random'], #external packages as dependencies
+   install_requires=['numpy'], #external packages as dependencies
 )
