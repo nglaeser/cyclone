@@ -4,4 +4,4 @@ Thus, this has been configured so that graph-cyclone.graph-cyclone can
 be imported simpy as `import graph-cyclone`.
 """
 
-from .graph-cyclone import *
+from .graph_cyclone import *
