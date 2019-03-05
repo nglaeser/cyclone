@@ -4,4 +4,4 @@ This repo contains the package `graph-cyclone`, which has useful utilities when 
 
 ## Install
 
-`pip install graph-cyclone`. The newest version is version 1.1.
+`pip install graph-cyclone`
